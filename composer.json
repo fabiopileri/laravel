@@ -1,0 +1,16 @@
+{
+    "name": "fabio.pileri/laravel",
+    "description": "progetto di test",
+    "authors": [
+        {
+            "name": "fabio.pileri",
+            "email": "pileri@olomedia.it"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.0"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
